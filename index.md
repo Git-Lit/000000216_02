@@ -1,3 +1,7 @@
+---
+layout: default
+title: All for Greed. (Volume 2)
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
